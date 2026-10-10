@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TrainStreak.Api/TrainStreak.Api.csproj" />
+    <Project Path="src/TrainStreak.Domain/TrainStreak.Domain.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TrainStreak.Api.Tests/TrainStreak.Api.Tests.csproj" />
+    <Project Path="tests/TrainStreak.Domain.Tests/TrainStreak.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
